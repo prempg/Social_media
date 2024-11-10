@@ -1,1 +1,1 @@
-# Social_media
+# Full-Stack-Social-Media-App
